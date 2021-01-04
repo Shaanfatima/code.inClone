@@ -1,0 +1,245 @@
+body {
+    width: 100%;
+    font-family: Nunito sans;
+}
+
+.float-right {
+    float: right;
+}
+
+.nav {
+    height: 4em;
+    width: 100%;
+
+    /* background-color: brown; */
+}
+
+.list {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 17.6px;
+    font-weight: bold;
+}
+
+.list li {
+    display: inline-block;
+    margin-right: 30px;
+
+}
+
+.list li a {
+    text-decoration: none;
+    padding: 5px;
+    color: #5f6368;
+}
+
+.list li a:hover {
+    color: black;
+}
+
+.img {
+    margin-left: 39%;
+    margin-top: 7%;
+    width: 50%;
+}
+
+.head {
+    font-family: Nunito Sans;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 48px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.b {
+    color: #4285f4;
+    ;
+}
+
+.g {
+    color: #34a853;
+}
+
+.head p {
+    font-size: 16px;
+    margin-top: 3px;
+
+}
+
+.head p a {
+    text-decoration: none;
+    color: #ea4335;
+    font-size: 17.6px;
+}
+
+.mj {
+    width: 200px;
+}
+
+.one {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid rgb(126, 217, 87) !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 7%;
+    margin-top: 10%;
+}
+
+.two {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #FBBD01 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 35%;
+    margin-top: -18%;
+
+}
+
+.three {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid black !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 65%;
+    margin-top: -14%;
+}
+
+.four {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #008037 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 7%;
+    margin-top: 8%;
+}
+
+.five {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #FF1717 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 35%;
+    margin-top: -13.7%;
+}
+
+.six {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #545454 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 65%;
+    margin-top: -17.5%;
+}
+
+.seven {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #545454 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 7%;
+    margin-top: 8%;
+}
+
+.eight {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #31AB50 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 35%;
+    margin-top: -16.2%;
+}
+
+.nine {
+    display: block;
+    width: 20%;
+    padding: 2%;
+    border-top: 2px solid #FF1717 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    letter-spacing: 1px;
+    margin-left: 65%;
+    margin-top: -15.5%;
+}
+.footer{
+    border: 1px solid rgb(211, 211, 211);
+    background-color: rgb(247, 247, 247);
+    margin-top: 10%;
+    /* position: relative; */
+    padding-bottom: 3%;
+}
+.fi{
+   width: 15%;
+   display: inline-block;
+    /* border: 2px solid black; */
+  margin-left: 5%;
+  margin-top: 2.5%;
+}
+.list1{
+    
+    list-style-type: none;
+    display: inline-block;
+    padding: 1%; 
+    width: 15%;
+    /* border: 2px solid black; */
+    margin-left: 0%;
+    position: absolute;
+} 
+ .list1 li{
+    display: inline-block;
+    padding: 10%;
+    font-size: 17.6px;
+    
+}
+.list1 li a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+    font-weight: bold;
+}
+.list1 li a:hover {
+    color: black;
+}
+.right{
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 30%;
+    /* border: 2px solid black; */
+    letter-spacing: 2px;
+}
+.left1{
+    float: left; 
+}
+.icon{
+    /* float: right; */
+    margin-left: 70%;
+    margin-top: -2.8%;
+    
+}
+.icon a{
+    padding: 7%;
+}
+.icon a i{
+    color: black;
+}
+/* 
+.h{
+    height: 210px;
+} */
